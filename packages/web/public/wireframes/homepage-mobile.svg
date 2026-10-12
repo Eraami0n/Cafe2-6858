@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="4140" viewBox="0 0 390 4140" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="390" height="4140" rx="0" fill="#FFFFFF"/>
+<path d="M0 0 H390" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="20" y="18" width="28" height="28" rx="5" fill="#DCDCDC" id="logo-mark"/>
+<text x="58" y="32" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#222222" font-weight="700" letter-spacing="0.4">CAFE PARK AVENUE</text>
+<text x="58" y="44" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#A6A6A6">кав'ярня-кондитерська</text>
+<rect x="338" y="16" width="32" height="32" rx="8" fill="#F4F4F4"/>
+<path d="M344 25 H364" stroke="#595959" stroke-width="1"/>
+<path d="M344 32 H364" stroke="#595959" stroke-width="1"/>
+<path d="M344 39 H364" stroke="#595959" stroke-width="1"/>
+<path d="M0 62 H390" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="0" y="62" width="390" height="668" rx="0" fill="#FAFAFA"/>
+<rect x="20" y="92" width="152" height="26" rx="13.0" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1"/>
+<text x="96.0" y="108.78" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8C8C8C" font-weight="500" text-anchor="middle">● Відкрито зараз · до 20:00</text>
+<text x="20" y="158" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#222222" font-weight="700" id="h1-1">Авторські торти</text>
+<text x="20" y="194" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#222222" font-weight="700" id="h1-2">та запашна кава</text>
+<text x="20" y="230" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#222222" font-weight="700" id="h1-3">для особливих</text>
+<text x="20" y="266" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#222222" font-weight="700" id="h1-4">моментів</text>
+<rect x="20" y="292" width="350" height="10" rx="5.0" fill="#E6E6E6"/>
+<rect x="20" y="310" width="280" height="10" rx="5.0" fill="#E6E6E6"/>
+<text x="20" y="340" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Самовивіз за 15 хвилин або</text>
+<text x="20" y="358" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">торт на подію з доставкою.</text>
+<rect x="20" y="382" width="350" height="52" rx="26.0" fill="#3F3F3F"/>
+<text x="195.0" y="413.04" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="600" text-anchor="middle">Замовити онлайн</text>
+<rect x="20" y="446" width="350" height="52" rx="26.0" fill="#FFFFFF" stroke="#595959" stroke-width="1.5"/>
+<text x="195.0" y="477.04" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3A3A3A" font-weight="600" text-anchor="middle">Замовити торт</text>
+<rect x="20" y="520" width="350" height="180" rx="8" fill="#EDEDED" stroke="#D8D8D8" stroke-width="1" id="hero-image"/>
+<path d="M21 521 L369 699 M369 521 L21 699" stroke="#D8D8D8" stroke-width="1"/>
+<text x="195.0" y="615.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" text-anchor="middle">Фото: торт і кава</text>
+<text x="20" y="770" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8C8C8C" font-weight="600" letter-spacing="1.6">ФУНКЦІОНАЛЬНІ МОЖЛИВОСТІ</text>
+<text x="20" y="806" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700">Що можна зробити</text>
+<rect x="20" y="832" width="350" height="84" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="feature-1"/>
+<rect x="38" y="850" width="36" height="36" rx="8" fill="#DCDCDC"/>
+<text x="88" y="866" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Онлайн-замовлення та оплата</text>
+<rect x="88" y="880" width="240" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="88" y="894" width="200" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="20" y="928" width="350" height="84" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="feature-2"/>
+<rect x="38" y="946" width="36" height="36" rx="8" fill="#DCDCDC"/>
+<text x="88" y="962" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Конфігуратор тортів</text>
+<rect x="88" y="976" width="240" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="88" y="990" width="200" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="20" y="1024" width="350" height="84" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="feature-3"/>
+<rect x="38" y="1042" width="36" height="36" rx="8" fill="#DCDCDC"/>
+<text x="88" y="1058" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Бронювання столика</text>
+<rect x="88" y="1072" width="240" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="88" y="1086" width="200" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="20" y="1120" width="350" height="84" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="feature-4"/>
+<rect x="38" y="1138" width="36" height="36" rx="8" fill="#DCDCDC"/>
+<text x="88" y="1154" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Дієтичні фільтри</text>
+<rect x="88" y="1168" width="240" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="88" y="1182" width="200" height="8" rx="4.0" fill="#E6E6E6"/>
+<text x="20" y="1250" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8C8C8C" font-weight="600" letter-spacing="1.6">ПЕРЕВАГИ</text>
+<text x="20" y="1286" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700">Чому нам довіряють</text>
+<rect x="20" y="1314" width="36" height="36" rx="18" fill="#DCDCDC"/>
+<text x="72" y="1330" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Власне обсмаження кави</text>
+<rect x="72" y="1338" width="240" height="8" rx="4.0" fill="#DCDCDC"/>
+<path d="M72 1366 H370" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="20" y="1380" width="36" height="36" rx="18" fill="#DCDCDC"/>
+<text x="72" y="1396" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Без консервантів</text>
+<rect x="72" y="1404" width="240" height="8" rx="4.0" fill="#DCDCDC"/>
+<path d="M72 1432 H370" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="20" y="1446" width="36" height="36" rx="18" fill="#DCDCDC"/>
+<text x="72" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Свіжа випічка щоранку</text>
+<rect x="72" y="1470" width="240" height="8" rx="4.0" fill="#DCDCDC"/>
+<path d="M72 1498 H370" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="20" y="1512" width="36" height="36" rx="18" fill="#DCDCDC"/>
+<text x="72" y="1528" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Локальні продукти</text>
+<rect x="72" y="1536" width="240" height="8" rx="4.0" fill="#DCDCDC"/>
+<text x="20" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8C8C8C" font-weight="600" letter-spacing="1.6">ОСНОВНИЙ КОНТЕНТ</text>
+<text x="20" y="1636" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700" id="menu-title">Популярне з меню</text>
+<text x="370" y="1636" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#595959" font-weight="600" text-anchor="end">Усе →</text>
+<rect x="20" y="1658" width="70" height="34" rx="17.0" fill="#3F3F3F" stroke="#3F3F3F" stroke-width="1"/>
+<text x="55.0" y="1679.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" font-weight="500" text-anchor="middle">Кава</text>
+<text x="55.0" y="1680" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF" font-weight="600" text-anchor="middle">Кава</text>
+<rect x="100" y="1658" width="97" height="34" rx="17.0" fill="#F4F4F4" stroke="#D8D8D8" stroke-width="1"/>
+<text x="148.5" y="1679.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" font-weight="500" text-anchor="middle">Десерти</text>
+<rect x="207" y="1658" width="97" height="34" rx="17.0" fill="#F4F4F4" stroke="#D8D8D8" stroke-width="1"/>
+<text x="255.5" y="1679.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" font-weight="500" text-anchor="middle">Випічка</text>
+<rect x="314" y="1658" width="34" height="34" rx="17.0" fill="#F4F4F4" stroke="#D8D8D8" stroke-width="1"/>
+<text x="331.0" y="1679.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" font-weight="500" text-anchor="middle">›</text>
+<rect x="20" y="1712" width="350" height="240" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="menu-card-1"/>
+<rect x="30" y="1722" width="330" height="116" rx="8" fill="#EDEDED" stroke="#D8D8D8" stroke-width="1"/>
+<path d="M31 1723 L359 1837 M359 1723 L31 1837" stroke="#D8D8D8" stroke-width="1"/>
+<text x="195.0" y="1785.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" text-anchor="middle">Фото</text>
+<text x="38" y="1870" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Назва позиції</text>
+<rect x="38" y="1888" width="230" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="38" y="1904" width="160" height="8" rx="4.0" fill="#E6E6E6"/>
+<text x="38" y="1938" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3A3A3A" font-weight="700">00 ₴</text>
+<rect x="322" y="1912" width="34" height="34" rx="17" fill="#3F3F3F"/>
+<text x="339" y="1934" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">+</text>
+<rect x="20" y="1968" width="350" height="240" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="menu-card-2"/>
+<rect x="30" y="1978" width="330" height="116" rx="8" fill="#EDEDED" stroke="#D8D8D8" stroke-width="1"/>
+<path d="M31 1979 L359 2093 M359 1979 L31 2093" stroke="#D8D8D8" stroke-width="1"/>
+<text x="195.0" y="2041.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" text-anchor="middle">Фото</text>
+<text x="38" y="2126" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Назва позиції</text>
+<rect x="38" y="2144" width="230" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="38" y="2160" width="160" height="8" rx="4.0" fill="#E6E6E6"/>
+<text x="38" y="2194" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3A3A3A" font-weight="700">00 ₴</text>
+<rect x="322" y="2168" width="34" height="34" rx="17" fill="#3F3F3F"/>
+<text x="339" y="2190" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">+</text>
+<rect x="20" y="2224" width="350" height="240" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="menu-card-3"/>
+<rect x="30" y="2234" width="330" height="116" rx="8" fill="#EDEDED" stroke="#D8D8D8" stroke-width="1"/>
+<path d="M31 2235 L359 2349 M359 2235 L31 2349" stroke="#D8D8D8" stroke-width="1"/>
+<text x="195.0" y="2297.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C" text-anchor="middle">Фото</text>
+<text x="38" y="2382" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222222" font-weight="600">Назва позиції</text>
+<rect x="38" y="2400" width="230" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="38" y="2416" width="160" height="8" rx="4.0" fill="#E6E6E6"/>
+<text x="38" y="2450" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3A3A3A" font-weight="700">00 ₴</text>
+<rect x="322" y="2424" width="34" height="34" rx="17" fill="#3F3F3F"/>
+<text x="339" y="2446" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">+</text>
+<rect x="20" y="2494" width="350" height="46" rx="23.0" fill="#FFFFFF" stroke="#595959" stroke-width="1.5"/>
+<text x="195.0" y="2521.68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3A3A3A" font-weight="600" text-anchor="middle">Показати все меню</text>
+<text x="20" y="2600" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8C8C8C" font-weight="600" letter-spacing="1.6">ВІДГУКИ</text>
+<text x="20" y="2636" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700">Про нас пишуть</text>
+<rect x="20" y="2658" width="176" height="32" rx="16.0" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1"/>
+<text x="108.0" y="2677.96" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8C8C8C" font-weight="500" text-anchor="middle">★ 4,9 · Google Reviews</text>
+<rect x="20" y="2712" width="350" height="250" rx="12" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="1" id="review-1"/>
+<text x="40" y="2750" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8C8C8C">★★★★★</text>
+<rect x="40" y="2774" width="310" height="9" rx="4.5" fill="#E6E6E6"/>
+<rect x="40" y="2792" width="310" height="9" rx="4.5" fill="#E6E6E6"/>
+<rect x="40" y="2810" width="230" height="9" rx="4.5" fill="#E6E6E6"/>
+<rect x="40" y="2850" width="36" height="36" rx="18" fill="#DCDCDC"/>
+<text x="86" y="2866" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#222222" font-weight="600">Ім'я клієнта</text>
+<text x="86" y="2882" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#A6A6A6">Джерело відгуку</text>
+<rect x="169.0" y="2992" width="8" height="8" rx="4" fill="#595959"/>
+<rect x="187.0" y="2992" width="8" height="8" rx="4" fill="#DCDCDC"/>
+<rect x="205.0" y="2992" width="8" height="8" rx="4" fill="#DCDCDC"/>
+<text x="195.0" y="3028" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#A6A6A6" text-anchor="middle">Свайп: наступний відгук</text>
+<rect x="0" y="3070" width="390" height="270" rx="0" fill="#F4F4F4"/>
+<text x="20" y="3122" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700">Святкуєте подію?</text>
+<text x="20" y="3158" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#222222" font-weight="700">Сконструюйте торт онлайн</text>
+<text x="20" y="3186" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Завдаток 30%, решту — при отриманні</text>
+<rect x="20" y="3212" width="350" height="52" rx="26.0" fill="#3F3F3F"/>
+<text x="195.0" y="3243.04" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#FFFFFF" font-weight="600" text-anchor="middle">Замовити торт</text>
+<rect x="20" y="3276" width="350" height="44" rx="22.0" fill="#FFFFFF" stroke="#595959" stroke-width="1.5"/>
+<text x="195.0" y="3302.68" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3A3A3A" font-weight="600" text-anchor="middle">Забронювати столик</text>
+<rect x="0" y="3380" width="390" height="640" rx="0" fill="#FAFAFA"/>
+<path d="M0 3380 H390" stroke="#E4E4E4" stroke-width="1"/>
+<rect x="20" y="3414" width="28" height="28" rx="5" fill="#DCDCDC"/>
+<text x="58" y="3428" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#222222" font-weight="700" letter-spacing="0.4">CAFE PARK AVENUE</text>
+<rect x="20" y="3462" width="310" height="8" rx="4.0" fill="#E6E6E6"/>
+<rect x="20" y="3477" width="240" height="8" rx="4.0" fill="#E6E6E6"/>
+<path d="M20 3506 H370" stroke="#E4E4E4" stroke-width="1"/>
+<text x="20" y="3544" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#222222" font-weight="600">Контакти</text>
+<text x="20" y="3566" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">вул. Соборна, Монастирище</text>
+<text x="20" y="3588" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">+380 __ ___ __ __</text>
+<text x="20" y="3610" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">hello@parkavenue.ua</text>
+<text x="20" y="3662" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#222222" font-weight="600">Години роботи</text>
+<text x="20" y="3684" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Пн–Пт: 08:00 – 20:00</text>
+<text x="20" y="3706" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Сб–Нд: 09:00 – 21:00</text>
+<text x="20" y="3780" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#222222" font-weight="600">Навігація</text>
+<text x="20" y="3802" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Меню · Замовлення · Бронювання</text>
+<text x="20" y="3824" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8C8C8C">Про нас · Контакти</text>
+<rect x="20" y="3862" width="160" height="40" rx="20.0" fill="#FFFFFF" stroke="#595959" stroke-width="1.5"/>
+<text x="100.0" y="3886.32" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#3A3A3A" font-weight="600" text-anchor="middle">Прокласти маршрут</text>
+<rect x="196" y="3862" width="40" height="40" rx="8" fill="#DCDCDC"/>
+<rect x="244" y="3862" width="40" height="40" rx="8" fill="#DCDCDC"/>
+<path d="M20 3926 H370" stroke="#E4E4E4" stroke-width="1"/>
+<text x="20" y="3956" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#A6A6A6">© 2026 Cafe Park Avenue</text>
+<text x="20" y="3976" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#A6A6A6">Публічна оферта · Політика конфіденційності</text>
+<rect x="0" y="4060" width="390" height="80" rx="0" fill="#FAFAFA"/>
+<path d="M0 4060 H390" stroke="#E4E4E4" stroke-width="1"/>
+<text x="20" y="4080" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#8C8C8C" font-weight="600" letter-spacing="0.8">СТАН: ФІКСОВАНА НИЖНЯ ПАНЕЛЬ (поза потоком)</text>
+<rect x="63.33333333333333" y="4092" width="30" height="30" rx="15" fill="#DCDCDC"/>
+<text x="78.33333333333333" y="4111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3A3A3A" font-weight="600" text-anchor="middle">▤</text>
+<text x="78.33333333333333" y="4132" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#8C8C8C" font-weight="500" text-anchor="middle">Меню</text>
+<rect x="180.0" y="4092" width="30" height="30" rx="15" fill="#3F3F3F"/>
+<text x="195.0" y="4111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">◉</text>
+<text x="195.0" y="4132" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#8C8C8C" font-weight="500" text-anchor="middle">Замовити</text>
+<rect x="296.6666666666667" y="4092" width="30" height="30" rx="15" fill="#DCDCDC"/>
+<text x="311.6666666666667" y="4111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3A3A3A" font-weight="600" text-anchor="middle">⌖</text>
+<text x="311.6666666666667" y="4132" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#8C8C8C" font-weight="500" text-anchor="middle">Маршрут</text>
+</svg>
